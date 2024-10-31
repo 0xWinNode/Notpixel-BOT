@@ -25,64 +25,21 @@
 
 NotPixel Mining By Pavel
 🏷 Reward: PX Tokens
-➡️ Register: https://t.me/notpixel/app?startapp=f5703822759
+➡️ Register: https://t.me/notpixel
 
 Color pixels and watch your Not PX balance grow.
 Just draw on the canvas and clear some task
 
 Zoom > Find White Color > Draw With Multicolor > Done
 📌 Use 1.1.1.1 (Cloudflare DNS) if you can't open the game
-
-## Join My Telegram Channel
-```
-                                                          
-                      ...                                 
-                     .;:.                                 
-                    .;ol,.                                
-                   .;ooc:'                                
-            ..    .;ooccc:'.    ..                        
-          .',....'cdxlccccc;.....,'.                      
-         .;;..'';clolccccccc:,''..;;.                     
-        ':c'..':cccccccccccccc;...'c:.                    
-       ':cc,.'ccccccccccccccccc:..;cc:'                   
-    ...:cc;.':cccccccccccccccccc:..:cc:...                
-   .;';cc;.':;;:cccccccccccccc:;;;'.;cc,,;.               
-  .cc':c:.',.....;cccccccccc;.....,..:c:'c:               
-  ,x:'cc;.,'     .':cccccc:'.     ',.;cc':x'              
-  lO,'cc;.;,       .;cccc:.       ,;.;cc';0l              
- .o0;.;c;.,:'......',''''''......':,.;c;.:0l.             
- .lxl,.;,..;c::::;:,.    .,:;::::c;..,;.,oxl.             
- .lkxOl..  ..'..;::'..''..'::;..'..  ..c0xkl.             
-  .cKMx.        .;c:;:cc:;:c:.        .xMKc.              
-    ;KX:         ;o::l:;cc;o:.        ;KK;                
-     :KK:.       ,d,cd,'ol'o:       .:0K:                 
-      ;0NOl:;:loo;. ... .. .;ldlc::lkN0:                  
-       .lONNNKOx0Xd,;;'.,:,lKKkk0XNN0o.                   
-         .','.. .lX0doooodOXd.  .','.                     
-                 .,okkddxkd;.                             
-                    'oxxd;.                               
-   ........................................                              
-   .OWo  xNd lox  xxl Ald   xoc dakkkkkxsx.              
-   .OWo  o0W cXW  dM0 MMN   lNK laddKMNkso.               
-   .kMKoxsNN oWX  dW0 MMMWO lWK    axM0   .                
-   .OMWXNaMX dM0  kM0 MMKxNXKW0    axMk   .                 
-   .OMk  dWK oWX XWdx Mxx  XMMO    akMx   .                 
-   'OWo  dM0 'kNNXNNd DMD   OWk    aoWd   .                 
-   ........................................
-
-```           
-                                              
-                                              
-
-Anyway i create new telegram channel just for sharing bot or airdrop, join here
-[**https://t.me/skeldrophunt**](https://t.me/skeldrophunt).
+          
 
 ## Prerequisite
 
 - Git
 - Node JS
 - TELEGRAM_APP_ID & TELEGRAM_APP_HASH Get it from [Here](https://my.telegram.org/auth?to=apps) (REQUIRED IF YOU WANT USE SESSIONS)
-- Not Pixel Register [Here](https://t.me/notpixel/app?startapp=f5703822759) Regist and atleast do something in game
+- Not Pixel Register [Here](https://t.me/notpixel) Regist and atleast do something in game
 
 ## BOT FEATURE
 
@@ -99,11 +56,11 @@ Anyway i create new telegram channel just for sharing bot or airdrop, join here
 
 1. clone project repo
    ```
-   git clone https://github.com/Widiskel/not-pixel-bot
+   git clone https://github.com/0xWinNode/NotPixel-BOT.git
    ```
    and cd to project dir
    ```
-   cd not-pixel-bot
+   cd NotPixel-BOT
    ```
 2. Run
    ```
@@ -137,11 +94,11 @@ Anyway i create new telegram channel just for sharing bot or airdrop, join here
 1. Open your `Command Prompt` or `Power Shell`.
 2. Clone project repo
    ```
-   git clone https://github.com/Widiskel/not-pixel-bot
+   git clone https://github.com/0xWinNode/NotPixel-BOT.git
    ```
    and cd to project dir
    ```
-   cd not-pixel-bot
+   cd NotPixel-BOT
    ```
 3. Run
    ```
@@ -241,12 +198,3 @@ if you got error `Invalid ConstructorId` try to run this `npm i telegram@2.22.2`
 ## CONTRIBUTE
 
 Feel free to fork and contribute adding more feature thanks. To get original unencrypted code just DM me on my social media original (index.js and src folder) are Obfuscated during build
-
-## SUPPORT
-
-want to support me for creating another bot ?
-**star** my repo or buy me a coffee on
-
-EVM : `0x1f0ea6e0b3590e1ab6c12ea0a24d3d0d9bf7707d`
-
-SOLANA : `3tE3Hs7P2wuRyVxyMD7JSf8JTAmEekdNsQWqAnayE1CN`
